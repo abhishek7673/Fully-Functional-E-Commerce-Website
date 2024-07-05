@@ -19,5 +19,8 @@ shot (127)](https://github.com/abhishek7673/Fully-Functional-E-Commerce-Website/
 Install VS Code and make the environment suitable for HTML, CSS, JS and install all the tools that are required for the same to function.
 Just Write the code and run it in localhost.
 
+# What You can do in this project.
+I have used very less javascript. javaScript portion is very less there is much to improve functionalities in this website.
+ All the best for further development.
 # Copyright
 Feel free to copy the code and run in your localhost(computer). And Make Changes where required. 
